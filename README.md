@@ -1,7 +1,7 @@
 DEV-WPS-SOM_Toolkit_Samples
 ===========================
 
-IBM SOM Toolkit Samples. This are the samples that are included on the BM SOMobjects Developer Toolkit - Version 3.0. This samples allows derivative works. 
+IBM SOM Toolkit Samples. This are the samples that are included on the IBM SOMobjects Developer Toolkit - Version 3.0. This samples allows derivative works. 
 
 
 LICENSE
